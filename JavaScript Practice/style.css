@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+}
+
+.value{
+    font-size: 10em;
+    font-family: helvetica;
+}
+
+.valuetext{
+    font-size: 5em;
+    font-family: verdana;
+}
+
+.btns{
+    font-size: 2em;
+    padding:10px 20px;
+    margin:10px;
+    background-color: rgb(0, 187, 255);
+    color:white;
+}
+
+.btns:hover{
+    background-color: hsl(204, 100%, 40%);
+}
+
+.randomnumber{
+    height:300px;
+}
+
+input{
+    font-size: 2em;
+    padding:10px 20px;
+    width:100px;
+    text-align: center;
+}
+
